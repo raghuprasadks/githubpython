@@ -37,6 +37,6 @@ jobs:
           
       - name: execute py script # run helloworld.py
       
-        run: python helloworld.py
+        run: python HelloWorld.py
 
       
